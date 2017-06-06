@@ -1,7 +1,7 @@
 {
     "name": "faustbrian/freegeo-php-client",
     "description": "A FreeGeo Client for PHP",
-    "keywords": ["api", "faustbrian", "faustbrian-freegeo", "freegeo", "Brian Faust", "faustbrian"],
+    "keywords": ["api", "freegeo", "Brian Faust", "faustbrian"],
     "license": "MIT",
     "authors": [{
         "name": "Brian Faust",
